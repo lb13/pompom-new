@@ -1,4 +1,7 @@
 # pompom-new
 New version of the Pom Pom Paints site
 
-This will include Bootstrap to improve the overall style.
+## Colours
+The background / base colour is <span style="color: #FFDDEE">#FFDDEE</span>.
+
+The logo font is **Playlist Script**.

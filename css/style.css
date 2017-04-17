@@ -1,3 +1,24 @@
+@font-face {
+  font-family: Playlist;
+  src: url("../fonts/Playlist Script.otf") format("opentype");
+}
+
+@font-face {
+  font-family: Ornament;
+  src: url("../fonts/Playlist Ornament.otf") format("opentype");
+}
+
+body {
+  background-color: #FFF;
+  padding: 0px;
+  margin: 0px;
+}
+
+h1 {
+  margin: 0px;
+  padding: 0px;
+}
+
 .grid {
   width: auto;
 }
@@ -22,6 +43,7 @@
 [class*='col-'] {
   float: left;
   padding-right: 20px;
+  min-height: 1px;
 }
 
 [class*='col-']:last-of-type {
